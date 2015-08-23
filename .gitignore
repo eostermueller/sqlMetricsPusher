@@ -1,4 +1,5 @@
 *.class
+target/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -15,4 +16,4 @@ hs_err_pid*
 # Eclipse stuff
 .project
 .classpath
-.settings
+.settings/
